@@ -8,6 +8,8 @@ Els professors son:
 3. Ermengol
 4. Ernesto
 5. Maribel
+6. Segundo
+7. Enric
 
 - M06
 - M07
